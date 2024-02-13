@@ -25,8 +25,9 @@ El conocimiento actual que tengo es gracias al bootcamp de Henry que me ayudó a
 * JavaScript
 * Node.js
 * PostreSQL
+* Express
 
-Entre otras herramientas se pueden mencionar **Express,Redux** y librerías como **Mercado Pago y React Bootstrap**.
+Entre otras herramientas se pueden mencionar **Redux, Redux-toolkit** y librerías como **Mercado Pago, React Bootstrap y tailwindCSS**.
 
 ### No dudes en contactarme!
 
