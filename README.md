@@ -35,7 +35,7 @@ Juntos podemos realizar un proyecto que nos ayude a crecer profesionalmente y ta
 
 [Linkedin](https://www.linkedin.com/in/emanuel-nieto-230aab264/)
 
-Correo: talleresmatador114@gmail.com
+Correo: enieto.developer@gmail.com
 
 Cel: (+54) 351 6196235
   
