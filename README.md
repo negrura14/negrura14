@@ -7,13 +7,9 @@ Siempre me intereso el mundo IT , comenze hace un año cuando me inscribi a una 
 donde aprendi los fundamentos de la programacion con el lenguaje Java. Luego conoci la academia de 
 Soy Henry donde me gradué del bootcamp y adquiri gran conocimiento y experiencia en trabajo en equipo.
 
-## ¿Que hago?
-
-Actualmente estoy buscando nuevas tecnologias para ampliar mis conocimientos como programador web.
-
 ## ¿Hacia donde voy?
 
-Mi objetivo principal es seguir adentrandome en todo lo que es el mundo IT y su mercado laboral, poder generar nuevas habilidades que además de ayudarme a mi ayuden a los demás en su vida cotidiana y laboral. Además de conseguir mi primer trabajo en el mundo IT.
+Mi objetivo principal es continuar profundizando en el mundo de la tecnología de la información y su mercado laboral. Aspiro a desarrollar nuevas habilidades que no solo me beneficien a mí, sino que también ayuden a mejorar la vida cotidiana y profesional de otros. Estoy enfocado en conseguir mi primer trabajo en el sector IT, donde pueda aplicar y expandir mis conocimientos mientras contribuyo al éxito del equipo y de la empresa.
 
 ## ¿Que tecnologías uso?
 
