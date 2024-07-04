@@ -29,7 +29,7 @@ Entre otras herramientas se pueden mencionar **Redux, Redux-toolkit** y librerí
 
 Juntos podemos realizar un proyecto que nos ayude a crecer profesionalmente y también puedo ser de utilidad para mejorar el rendimiento de tu empresa o negocio!
 
-[Linkedin](https://www.linkedin.com/in/emanuel-nieto-230aab264/)
+LinkedIn: [Linkedin](https://www.linkedin.com/in/emanuel-nieto-230aab264/)
 
 Correo: enieto.developer@gmail.com
 
