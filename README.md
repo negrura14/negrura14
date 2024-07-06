@@ -3,9 +3,9 @@
 ## ¿Quien soy?
 Soy **Desarrollador Full Stack** con mas experiencia en **FrontEnd** en la creación de componentes y vistas.
 
-Siempre me intereso el mundo IT , comenze hace un año cuando me inscribi a una academia de mi ciudad 
-donde aprendi los fundamentos de la programacion con el lenguaje Java. Luego conoci la academia de 
-Soy Henry donde me gradué del bootcamp y adquiri gran conocimiento y experiencia en trabajo en equipo.
+Siempre me intereso el mundo IT , comenze en el año 2022 cuando me inscribi a una academia de mi ciudad 
+donde aprendi los fundamentos de la programacion con el lenguaje Java. Luego conocí la academia de 
+Soy Henry donde me gradué del bootcamp y adquirí gran conocimiento y experiencia en trabajo en equipo.
 
 ## ¿Hacia donde voy?
 
