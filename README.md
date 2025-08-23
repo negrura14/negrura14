@@ -1,33 +1,37 @@
 # Hola, mi nombre es Emanuel Nieto👋
 
 ## ¿Quien soy?
-Soy **Desarrollador Full Stack** con mas experiencia en **FrontEnd** en la creación de componentes y vistas.
+Soy **Desarrollador Full Stack** con experiencia sólida en **FrontEnd** y creciente en **BackEnd**. Actualmente trabajo en Phinxlab desde octubre de 2024, participando en proyectos que utilizan tecnologías modernas y robustas.
 
-Siempre me intereso el mundo IT , comenze en el año 2022 cuando me inscribi a una academia de mi ciudad 
-donde aprendi los fundamentos de la programacion con el lenguaje Java. Luego conocí la academia de 
-Soy Henry donde me gradué del bootcamp y adquirí gran conocimiento y experiencia en trabajo en equipo.
+Me apasiona el mundo IT desde 2022, cuando comencé mi formación en programación con Java. Luego me capacité en el bootcamp de Soy Henry, donde fortalecí mis habilidades técnicas y el trabajo en equipo.
+
+## ¿Qué hago actualmente?
+En Phinxlab trabajo con un stack variado y actualizado:
+* Backend: TypeScript, Node.js, Express
+* Bases de datos: PostgreSQL, Redis, Firebase
+* Frontend: Flutter y Dart
+Aunque no tengo repositorios públicos en GitHub por trabajar con Bitbucket, puedo compartir proyectos y experiencias bajo solicitud.
 
 ## ¿Hacia donde voy?
 
-Mi objetivo principal es continuar profundizando en el mundo de la tecnología de la información y su mercado laboral. Aspiro a desarrollar nuevas habilidades que no solo me beneficien a mí, sino que también ayuden a mejorar la vida cotidiana y profesional de otros. Estoy enfocado en conseguir mi primer trabajo en el sector IT, donde pueda aplicar y expandir mis conocimientos mientras contribuyo al éxito del equipo y de la empresa.
+Mi objetivo es seguir profundizando en tecnologías full stack, ampliando mis habilidades y contribuyendo a proyectos que impacten positivamente a las personas y empresas. 
+Estoy abierto a nuevas oportunidades donde pueda aplicar y crecer profesionalmente
 
-## ¿Que tecnologías uso?
+## Tecnologías y herramientas
 
-El conocimiento actual que tengo es gracias al bootcamp de Henry que me ayudó a adquirir conocimiento y experiencia mediante los proyectos dentro del mismo, que son las siguientes:
+Además de las tecnologías que uso actualmente en Phinxlab, cuento con conocimientos adquiridos en el bootcamp y proyectos previos en:
 
-* React.js
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* PostreSQL
-* Express
+* React.js, JavaScript, HTML, CSS
+* Node.js, Express
+* PostgreSQL
+* Redux, Redux Toolkit
+* Librerías como Mercado Pago, React Bootstrap, TailwindCSS
 
 Entre otras herramientas se pueden mencionar **Redux, Redux-toolkit** y librerías como **Mercado Pago, React Bootstrap y tailwindCSS**.
 
 ### No dudes en contactarme!
 
-Juntos podemos realizar un proyecto que nos ayude a crecer profesionalmente y también puedo ser de utilidad para mejorar el rendimiento de tu empresa o negocio!
+Estoy abierto a colaborar y aportar valor a tu equipo o proyecto.
 
 LinkedIn: [Linkedin](https://www.linkedin.com/in/emanuel-nieto-230aab264/)
 
